@@ -1,5 +1,7 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/autocloudarc/GitHub%20Integration/_apis/build/status%2Fautocloudarc.ContosoAir?branchName=master)](https://dev.azure.com/autocloudarc/GitHub%20Integration/_build/latest?definitionId=73&branchName=master)
+
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 # Microsoft.Github CI Demo
 
