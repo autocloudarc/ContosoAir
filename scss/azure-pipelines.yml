@@ -21,8 +21,8 @@ steps:
       rootFolderOrFile: '$(Build.SourcesDirectory)'
       includeRootFolder: false
   - task: PublishPipelineArtifact@1
+    displayName: 'npm install and build'
     inputs:
       targetPath: '$(build.artifactstagingdirectory)'
       artifact: 'drop'
       publishLocation: 'pipeline'
-    displayName: 'npm install and build'
